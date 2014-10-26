@@ -1,0 +1,7 @@
+﻿<AddinProject appVersion="5.0">
+	<Project platforms="Mac">
+		<AddinFile>bin/Debug/VSBindingsOnMac.dll</AddinFile>
+		<BuildFile>VSBindingsOnMac.sln</BuildFile>
+		<BuildConfiguration>Debug</BuildConfiguration>
+	</Project>
+</AddinProject>
